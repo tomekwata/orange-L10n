@@ -12,7 +12,7 @@ Some of translations strings could be not filled, so english strings will be in 
 You can see all available strings in RUSSIAN localization file.
 
 ### Contribution
-Feel free to pull request with new language file or translation fixes for supported languages.  
+Feel free to pull request with new language file or translation fixes for supported languages.
 After merge, we'll update app as soon as possible.
 
 ### License
